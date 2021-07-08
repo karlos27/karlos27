@@ -6,7 +6,7 @@
 </hr>
 </br>I'm currently doing a Renewable Energy Master at UNIBA <a href="https://www.unibarcelona.com/">UNIBA (Centro Universitario Internacional de Barcelona)</a></em></p>
 </br>
-<a href="https://www.linkedin.com/in/carlossegarragonzalez"><img align='left' src="https://github.com/karlos27/karlos27/blob/main/Media/lnkn.png" width="90"></a>
+<a href="https://www.linkedin.com/in/carlossegarragonzalez"><img align='left' src="https://github.com/karlos27/karlos27/blob/main/Media/lnkn.png" width="70"></a>
 </br>
 </hr>
 <h2> Why Environmental Science?</h2>
