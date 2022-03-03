@@ -4,7 +4,7 @@
 <p><em>Environmental Scientist <a href="https://www.udg.edu/en/">Universitat de Girona</a>
 </br>FrontEnd Developer  <a href="https://www.adams.es/nuestros-centros/girona/1/944">Adams academy</a>
 </hr>
-</br>I'm currently doing a Renewable Energy Master at UNIBA <a href="https://www.unibarcelona.com/">UNIBA (Centro Universitario Internacional de Barcelona)</a></em></p>
+</br>I'm currently studying a Master's degree in Renewable Energy and Energy Sustainability at UNIBA <a href="https://www.unibarcelona.com/">UNIBA (Centro Universitario Internacional de Barcelona)</a></em></p>
 </br>
 <a href="https://www.linkedin.com/in/carlossegarragonzalez"><img align='left' src="https://github.com/karlos27/karlos27/blob/main/Media/lnkn.png" width="70"></a>
 </br>
