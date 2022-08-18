@@ -2,7 +2,7 @@
 <h2> Hi there, I'm Carlos Segarra 👋</h2>
 
 <p><em>Environmental Scientist <a href="https://www.udg.edu/en/">Universitat de Girona</a>
-</br>FrontEnd Developer  <a href="https://www.adams.es/nuestros-centros/girona/1/944">Adams academy</a>
+</br>Web Developer  <a href="https://www.adams.es/nuestros-centros/girona/1/944">Adams academy</a>
 </hr>
 </br>Mater's Degree in Renewable Energy and Energy Sustainability <a href="https://www.unibarcelona.com/">UNIBA (Centro Universitario Internacional de Barcelona)</a></em></p>
 </br>
