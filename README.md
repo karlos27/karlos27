@@ -1,21 +1,17 @@
-<img align='right' src="https://github.com/karlos27/karlos27/blob/main/Media/CV_FotoCarnet.jpg" width="130">
-<h2> Hi there, I'm Carlos Segarra 👋</h2>
+# 🌿 Environmentalist and Web Developer
 
-<p><em>Environmental Scientist <a href="https://www.udg.edu/en/">Universitat de Girona</a>
-</br>Web Developer  <a href="https://www.adams.es/nuestros-centros/girona/1/944">Adams academy</a>
-</hr>
-</br>Master's Degree in Renewable Energies and Energy Sustainability <a href="https://www.unibarcelona.com/">UNIBA (Centro Universitario Internacional de Barcelona)</a></em></p>
-</br>
-<a href="https://www.linkedin.com/in/carlossegarragonzalez"><img align='left' src="https://github.com/karlos27/karlos27/blob/main/Media/lnkn.png" width="70"></a>
-</br>
-</hr>
-<h2> Why Environmental Science?</h2>
-<p><em>Because I believe in sustainability as true development to meet the needs of the present without compromising the capacity of the future</em></p>
-</br>
-</hr>
-<h2> Why Web development?</h2>
-<p><em>Because I really enjoy writing scripts and learning programming languages and perhaps, in the future, I could use it in a useful way for the environment</em></p>
-</br>
-</hr>
-<h2> Why Renewable Energies and Energy Sustainability?</h2>
-<p><em>Because it gives me the opportunity to know the great importance of key concepts like LCA, embedded energy, carbon footprint... or to work in activities like eco-auditories, etc...</em></p>
+**Integrating Technical Solutions with Environmental and Sustainability Expertise**
+
+👋 Hi! I'm Carlos Segarra González, a passionate environmentalist and tech enthusiast. I have a solid background in environmental sciences and web development, enabling me to create tech solutions that drive environmental and sustainability initiatives.
+
+## 🌱 About Me
+- **Education**: Bachelor’s degree in Environmental Sciences, Master's in Renewable Energies and Energy Sustainability.
+- **Experience**: Over 5 years working on various projects related to environmental management, environmental education, waste management, pest control and web application development.
+- **Skills**: Web development, data analysis, Python, environmental project management.
+
+## 🚀 Goals
+I am seeking opportunities to apply my knowledge in technology and environmental science to make the world a more sustainable place. I am particularly interested in developing web tools and data analysis for sustainability projects.
+
+## 📫 Contact
+- **Email**: jobscarlos27@gmail.com
+- <a href="https://www.linkedin.com/in/carlossegarragonzalez"><img align='left' src="https://github.com/karlos27/karlos27/blob/main/Media/lnkn.png" width="70"></a>
