@@ -13,5 +13,5 @@
 I am seeking opportunities to apply my knowledge in technology and environmental science to make the world a more sustainable place. I am particularly interested in developing web tools and data analysis for sustainability projects.
 
 ## 📫 Contact
-- **Email**: jobscarlos27@gmail.com
+- **Email**: csegarra@coamb.cat
 - <a href="https://www.linkedin.com/in/carlossegarragonzalez"><img align='left' src="https://github.com/karlos27/karlos27/blob/main/Media/lnkn.png" width="70"></a>
